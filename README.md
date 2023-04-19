@@ -6,3 +6,5 @@ Usando TouchAPI y FullScreenAPI para hacer un reproductor con estas funciones:
 - El vídeo esté reproduciéndose o no, si le da dos veces al tercio izquierdo de la pantalla en menos de 0.25 s, avance 10s el video.
 - Si el vídeo no está en pantalla completa y el usuario da dos veces al tercio medio de la pantalla, este se pone en pantalla completa.
 - Si el vídeo está en pantalla completa y el usuario da dos veces al tercio medio de la pantalla, este se pone en tamaño normal.
+- Si deslizo el dedo hacia arriba se sube el volumen.
+- Si deslizo el dedo hacia abajo se baja el volumen.
