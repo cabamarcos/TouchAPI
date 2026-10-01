@@ -1,4 +1,15 @@
-# TouchAPI
+# Reproductor con gestos táctiles
+
+<!-- academic-catalog:start -->
+**UC3M · 3.º curso · Sistemas interactivos y ubicuos**
+
+Control de vídeo mediante toques, dobles toques y deslizamientos para reproducir, avanzar, ajustar el volumen y activar pantalla completa.
+
+**Tecnologías:** JavaScript, Touch API, Fullscreen API.
+
+[Ver todos mis proyectos académicos](https://github.com/cabamarcos/academic-projects)
+<!-- academic-catalog:end -->
+
 Usando TouchAPI y FullScreenAPI para hacer un reproductor muy simple con estas funciones:
 - Si el video está reproduciéndose y el usuario toca una vez cualquier parte de la pantalla, lo pare.
 - Si el video está parado y el usuario toca una vez cualquier parte de la pantalla, lo reproduzca.
